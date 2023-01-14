@@ -1,4 +1,4 @@
-## Who is Arli?
+# Who is Arli?
 
 ![Arli](https://i.ibb.co/Db04CpR/Arli.png)
 
@@ -12,11 +12,11 @@ electronic circuit components such as 4 servo motors, 1 stepper motor and driver
 
 Arli was programmed by Opanin Akuffo, and designed and built by Denver Chikokonya, Nadine Iradukunda, and Joe Amarteifio.
 
-## Documentation
+# Documentation
 The project report and documentation can be found in the repo titled: *Arli - 3 Axis Robotic Arm & Conveyor Belt.pdf*
 
-## Code
+# Code
 The code behind Arli can be found in the repo titled: *ARLI_code.ino*
 
-## Demo
+# Demo
 A demo of Arli in action can be found [here](https://www.youtube.com/watch?v=jbK_fIHl9Ys)
