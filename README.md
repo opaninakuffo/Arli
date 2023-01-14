@@ -15,5 +15,8 @@ Arli was programmed by Opanin Akuffo, and designed and built by Denver Chikokony
 ## Documentation
 The project report and documentation can be found in the repo titled: *Arli - 3 Axis Robotic Arm & Conveyor Belt.pdf*
 
+## Code
+The code behind Arli can be found in the repo titled: *ARLI_code.ino*
+
 ## Demo
 A demo of Arli in action can be found [here](https://www.youtube.com/watch?v=jbK_fIHl9Ys)
